@@ -25,3 +25,14 @@ color;white;
 padding:8px 25px;
 transitio: all.5s ease;
 }
+
+.navbar ul li a:hover{
+background-color : white;
+color: black;
+box-shadow:0 0 10px white;
+}
+body{
+margin:0;
+padding:0;
+  backgroun: url()
+}
